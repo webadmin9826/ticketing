@@ -1,0 +1,12 @@
+{
+  "name": "ticketing-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "test-api": "node -e \"console.log('Use vercel dev to test functions')\""
+  },
+  "dependencies": {
+    "mongodb": "^6.8.0"
+  }
+}
